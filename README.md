@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is João Pedro Silveira,Indie Game Dev.
+### My name is João Pedro Silveira, Indie Game Dev.
 
 - 🔭 I’m currently working on my first indie game.
 
